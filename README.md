@@ -1,2 +1,2 @@
-# Extend-Chat-Server-with-TLS
-A TLS-Enabled Chat Server
+# Chat-Server-with-TLS
+A TLS-Enabled Chat Server.
