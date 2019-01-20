@@ -34,7 +34,7 @@ public class SimpleChatServer {
 
         SSLSocketFactory factory = (SSLSocketFactory) SSLSocketFactory.getDefault();
 
-        //SSLSocket socket = (SSLSocket) factory.createSocket();
+        SSLSocket socket = (SSLSocket) factory.createSocket();
 
         //BufferedReader in = new BufferedReader(socket.getOutputStream());
         //PrintWriter out = new PrintWriter(socket.getInputStream());
